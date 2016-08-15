@@ -1,0 +1,11 @@
+ProjectSettingsPath: '[ProjectRoot]/ProjectSettings'
+AssetsFolder:
+- uneaty.runtime.assets
+- uneaty.ai
+- uneaty.visualization
+PluginsFolder:
+- knife.sharpener
+- uneaty.core
+- unity.sockets.io
+- uneaty.sockets.io
+- JsonNet-9.0.1
