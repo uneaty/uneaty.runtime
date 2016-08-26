@@ -1,0 +1,22 @@
+{
+  "name": "uneaty.runtime",
+  "version": "1.0.0",
+  "description": "Experiment runner for uNEATy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uneaty/uneaty.runtime.git"
+  },
+  "author": "kennelbound",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uneaty/uneaty.runtime/issues"
+  },
+  "homepage": "https://github.com/uneaty/uneaty.runtime#readme",
+  "dependencies": {
+    "uneaty.core": "file:///personal/uneaty/temp/uneaty.core"
+  }
+}
