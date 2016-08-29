@@ -1,1 +1,7 @@
-{"name":"uneaty.runtime","assetsFolder":"Assets","targetFolder":"/uneaty.runtime","projectSettingsFolder":null,"isMain":true}
+{
+  "name": "uneaty.runtime",
+  "assetsFolder": "Assets",
+  "targetFolder": "/uneaty.runtime",
+  "projectSettingsFolder": "ProjectSettings",
+  "isMain": true
+}
