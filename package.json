@@ -1,0 +1,24 @@
+{
+  "name": "uneaty.runtime",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uneaty/uneaty.runtime.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/uneaty/uneaty.runtime/issues"
+  },
+  "homepage": "https://github.com/uneaty/uneaty.runtime#readme",
+  "dependencies": {
+    "uneaty.ai": "git+https://github.com/uneaty/uneaty.ai.git",
+    "uneaty.sockets.io": "git+https://github.com/uneaty/uneaty.socket.io.git",
+    "uneaty.visualization": "git+https://github.com/uneaty/uneaty.visualization.git"
+  }
+}

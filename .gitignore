@@ -1,2 +1,5 @@
 /*-Windows*
 /.vs
+/node_modules
+npm-debug.*
+/target.project
