@@ -2,9 +2,8 @@
   "name": "uneaty.runtime",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "postinstall": "node ./node_modules/projenody/projenody.js"
   },
   "repository": {
     "type": "git",
@@ -16,6 +15,9 @@
     "url": "https://github.com/uneaty/uneaty.runtime/issues"
   },
   "homepage": "https://github.com/uneaty/uneaty.runtime#readme",
+  "devDependencies": {
+    "projenody": "git+https://github.com/kennelbound-unity/projenody.git"
+  },
   "dependencies": {
     "uneaty.ai": "git+https://github.com/uneaty/uneaty.ai.git",
     "uneaty.sockets.io": "git+https://github.com/uneaty/uneaty.socket.io.git",
