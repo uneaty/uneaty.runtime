@@ -4,3 +4,12 @@
 npm-debug.*
 /target.project
 /*.unity
+
+
+# unity-packman
+node_modules/
+.packman/
+Assets/Plugins/packman-pkgs/
+
+# unity-packman
+Assets/Plugins/packman-pkgs
