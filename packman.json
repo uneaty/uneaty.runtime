@@ -2,6 +2,7 @@
   "name": "uneaty.runtime",
   "dependencies": [
     "uneaty/uneaty.ai?branch=packman",
-    "uneaty/uneaty.socket.io"
+    "uneaty/uneaty.socket.io",
+    "uneaty/uneaty.visualization"
   ]
 }
