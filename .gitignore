@@ -7,6 +7,7 @@ npm-debug.*
 /obj
 /Temp
 /Library
+/out
 
 # unity-packman
 node_modules/
